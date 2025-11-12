@@ -34,3 +34,4 @@ User Interface Enhancements:
 Add visualizations to illustrate data distributions and model predictions.
 Incorporate user feedback mechanisms to enhance usability.
 
+<img width="1366" height="720" alt="Screenshot" src="https://github.com/user-attachments/assets/d40d69a2-0e74-4f1d-805e-8b86b213ec03" />
