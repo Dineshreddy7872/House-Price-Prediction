@@ -21,18 +21,6 @@ Allows users to input desired property features (number of bathrooms, balconies,
 Predicts the house price based on the input features and displays the result.
 Deployment:
 
-The application is intended for local deployment.
-Users can interact with the app by running streamlit run app.py after installing required dependencies.
-How to Use
-Installation:
-
-Clone the repository from GitHub.
-Install necessary Python packages using pip install -r requirements.txt.
-Run the Application:
-
-Navigate to the project directory in the command line.
-Execute streamlit run app.py to launch the Streamlit app locally.
-Using the App:
 
 Enter the number of bathrooms, balconies, size (in terms of bedrooms), and total square feet of the property you wish to predict.
 Click the "Predict Price" button to see the estimated house price in lakhs (INR).
@@ -45,9 +33,4 @@ User Interface Enhancements:
 
 Add visualizations to illustrate data distributions and model predictions.
 Incorporate user feedback mechanisms to enhance usability.
-Deployment Options:
 
-Consider deploying the application on cloud platforms for broader accessibility.
-Implement CI/CD pipelines for automated updates and deployments.
-Conclusion
-The Bengaluru House Price Predictor is a practical tool for prospective home buyers and real estate professionals in Bengaluru. It provides a straightforward means to estimate property prices based on key features, combining ease of use with powerful machine learning capabilities.
